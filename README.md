@@ -1,7 +1,7 @@
 # Cold or Allergy: marketing site
 
 Static site for the Cold or Allergy iPhone app, served by GitHub Pages at
-<https://timhibbard.github.io/cold-or-allergy/>.
+<https://timhibbard.github.io/cold-or-allergy-website/>.
 
 - `index.html`: landing page (App Store marketing URL)
 - `support.html`: App Store **Support URL**
